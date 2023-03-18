@@ -3,12 +3,12 @@
 
 
 ## 主なTODO
-- #1
-- #2
-- #3
-- #4
-- #5
-- #6
+- [#1](https://github.com/n-ao/public-todo-management-repo/issues/1)
+- [#2](https://github.com/n-ao/public-todo-management-repo/issues/2)
+- [#3](https://github.com/n-ao/public-todo-management-repo/issues/3)
+- [#4](https://github.com/n-ao/public-todo-management-repo/issues/4)
+- [#5](https://github.com/n-ao/public-todo-management-repo/issues/5)
+- [#6](https://github.com/n-ao/public-todo-management-repo/issues/6)
 
 ---
 ## Projects
