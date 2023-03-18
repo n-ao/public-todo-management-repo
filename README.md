@@ -1,5 +1,5 @@
 # public-todo-management-repo
-自分のPublicなTODOをまとめるためのプロジェクト
+自分のPublicなTODOをまとめ、進捗させるためのプロジェクト
 
 
 ## 運用方針(2023/3/18時点)
