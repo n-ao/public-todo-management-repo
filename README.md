@@ -1,6 +1,9 @@
 # public-todo-management-repo
 自分のPublicなTODOをまとめ、進捗させるためのプロジェクト
 
+## ピックアップ
+- [画像生成の資料](2023-03-19.pdf)
+
 ## 活用方針
 リンクしている全`Repository`横断の`Projects`のみだと、視覚化はできても前に進めにくい。
 
