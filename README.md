@@ -5,7 +5,7 @@
 [リポジトリ横断なTODO一覧](https://github.com/users/n-ao/projects/15/)
 
 ## ピックアップ
-- [Claspを試す](2023-03-22.md)
+- [Claspを試す](Journal/2023-03-22.md)
 - #3 [WASI](Issues/3_WASI.md)
 - #13 [レイトレーサー](Issues/12_raytracer.md)
 
