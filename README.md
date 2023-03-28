@@ -6,6 +6,7 @@
 
 ## ピックアップ
 - [Claspを試す](Journal/2023-03-22.md)
+- [#2](https://github.com/n-ao/public-todo-management-repo/issues/2) [画像一覧](Images/%E4%B8%80%E8%A6%A7.md)
 - #3 [WASI](Issues/3_WASI.md)
 - #13 [レイトレーサー](Issues/12_raytracer.md)
 
