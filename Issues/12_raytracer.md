@@ -40,5 +40,6 @@ TODO
 ---
 
 ## History
-### 3/28　メモとJS追加
+- 3/28　メモとJS追加
+- 3/30  実装は[別リポジトリ](https://github.com/n-ao/simple-raytracer)で続ける。 
 
